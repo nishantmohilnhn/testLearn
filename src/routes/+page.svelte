@@ -1,11 +1,2 @@
-<script>
-// @ts-nocheck
 
-    import Nevbare from "$lib/Component/Nevbare.svelte";
-
-
-</script>
-
-<nav>
-	<Nevbare/>
-</nav>
+<h1>sdfsdf</h1>
