@@ -1,4 +1,4 @@
 <script>
-    import Hero from "$lib/Component/HeroCard.svelte";
+    import HeroCard from "$lib/Component/HeroCard.svelte";
 </script>
-<Hero/>
+<HeroCard/>
