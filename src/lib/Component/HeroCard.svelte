@@ -1,4 +1,4 @@
-<div class="flex text-left h-56 bg-blue-400 m-1 drop-shadow-2xl overflow-clip">
+<div class="flex text-left h-1/3 md:h-64 bg-blue-400 m-1 drop-shadow-2xl overflow-clip">
    <!----text -->
     <div class="w-1/2 p-4 text-white text-mono ">
        <h1 class="sm:text-4xl text-base font-bold ">Manufacturing Machine</h1>
