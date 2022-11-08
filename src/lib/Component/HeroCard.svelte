@@ -5,7 +5,7 @@
        <p class=" text-sm md:text-base mt-2 ">Our services will provide you best possible manufacturing unit for your product development.</p>
     </div>
     <!----img-->
-   <div class=" bg-red-700 container" >
+   <div class= "container" >
       <img src="https://picsum.photos/1265" alt="img">
    </div>
 
