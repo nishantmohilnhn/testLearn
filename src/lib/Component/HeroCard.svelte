@@ -1,14 +1,11 @@
-<div class=" md:flex rounded-xl p-8 md:p-0 dark:bg-slate-800 drop-shadow-xl m-2 bg-gradient-to-r from-cyan-300 to-violet-300">
-   <div class="m-1 rounded-full p-2">
-      <img class="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="https://picsum.photos/384/384" alt="featered pic" width="384" height="384">
-   </div>
-   <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
-      <p class="text-lg font-medium text-sky-600 dark:text-slate-500"> Personal hygiene product manufacturing solutions.</p>
-      <p class="text-base font-medium text-slate-700 dark:text-slate-500">Personal hygiene products are products that have been 
-         manufactured in the cosmetics industry, but do not carry the legal classification of cosmetics,
-       which we use to clean ourselves in our daily lives.</p>
-   </div>
-</div>
-
-
-  
+<div class="flex text-left h-56 bg-blue-600 m-2 rounded-2xl drop-shadow-2xl overflow-clip">
+   <!----text -->
+    <div class="w-1/2 p-4 text-white text-mono ">
+       <h1 class="text-4xl">Manufacturing Machine</h1>
+       <p>Our services will provide you best possible manufacturing unit for your product development</p>
+    </div>
+    <!----img-->
+ <div class="">
+ <img src="https://picsum.photos/265" alt="img">
+ </div>
+ </div>
